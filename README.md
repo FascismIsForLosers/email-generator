@@ -1,9 +1,13 @@
 # email-generator
 People new to Python should watch [this video](https://www.youtube.com/watch?v=QJobMzcmoMo) and follow along before implementing the code. This will help the code make sense.
 
-People familiar with Python, I used an .env file but that's of course optional. .env file contents are:
-  EMAIL_ADDRESS = ""   # email address
-  EMAIL_PASSWORD = ""  # Generated app password
+People familiar with Python, I used an .env file but that's of course optional. .env file contents are just:
+
+EMAIL_ADDRESS = ""   # email address
+
+EMAIL_PASSWORD = ""  # Generated app password
+
+
 
 Remember to test the code with burner emails and use burner emails as the sender after testing as well. You should expect to lose whatever email you use for this, just in case. I haven't experienced that yet but it can happen.
 
