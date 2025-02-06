@@ -3,7 +3,7 @@ People new to Python should watch [this video](https://www.youtube.com/watch?v=Q
 
 People familiar with Python, I used an .env file but that's of course optional. .env file contents are just:
 
-EMAIL_ADDRESS = ""   # email address
+EMAIL_ADDRESS = ""   # my email address
 
 EMAIL_PASSWORD = ""  # Generated app password
 
