@@ -5,5 +5,5 @@ Remember to test the code with burner emails and use burner emails as the sender
 
 Keep in mind that gmail does have [daily email limits per user account](https://support.google.com/a/answer/166852?hl=en). I send 490 emails per burner email account for simplicity.
 
-The "block sender" button on gmail is easy to find and, once clicked, will send all your mail to spam. Correct me if I'm wrong, but I think that means sending a lot of emails fast might be the move. Let me know if that's dumb. I care more about being effective than feeling smart.
+The [block sender](https://support.google.com/mail/answer/8151?hl=en&co=GENIE.Platform%3DDesktop) button on gmail is easy to find and, once clicked, will send all your mail to spam. Correct me if I'm wrong, but I think that means sending a lot of emails fast might be the move. Let me know if that's dumb. I care more about being effective than feeling smart.
 
